@@ -1,21 +1,22 @@
 <template>
- <div>
-  <router-view></router-view>
+ <div class="home-container">
+
  </div>
 </template>
 
 <script>
+// import Home from './childComponents/Home.vue'
+
 export default {
-  name: 'App',
+  name: 'HomeIndex',
   data () {
-    return {
-    }
+    return {}
   },
   components: {
-
   }
 }
 </script>
 
 <style lang='scss' scoped>
+
 </style>

@@ -1,14 +1,15 @@
 <template>
- <div>
-  <router-view></router-view>
+ <div class="">
+首页
  </div>
 </template>
 
 <script>
 export default {
-  name: 'App',
+  name: 'Home',
   data () {
     return {
+
     }
   },
   components: {
@@ -18,4 +19,5 @@ export default {
 </script>
 
 <style lang='scss' scoped>
+
 </style>
