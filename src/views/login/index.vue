@@ -118,7 +118,7 @@ export default {
     height: 120px;
     min-width: 200px;
     margin-bottom: 20px;
-    background: url('~@/assets/img/user/eye.jpg') no-repeat;
+    background: url('~@/assets/img/user/onepiece.jpg') no-repeat;
     background-size: cover;
   }
   .login-form {
